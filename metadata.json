@@ -1,0 +1,6 @@
+{
+  "name": "Web Apps",
+  "description": "Professional bilingual CV & Resume Maker with BD Biodata, Modern Executive, Corporate ATS formats, cover letter generator, and job application tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
